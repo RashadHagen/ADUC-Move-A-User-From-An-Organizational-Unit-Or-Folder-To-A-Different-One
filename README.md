@@ -40,12 +40,12 @@ This project goes over two ways to move a user from an organizational unit or fo
 
 <div style="text-align:center;">
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>First Way: Drag and Drop</b></span>  
-<br/>
+<br/><br/>
  
 
 <div style="text-align:center;">
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Active Directory Users and Computers.</b></span>  
-<br/><br/>
+<br/>
 
 <table>
   <tr>
